@@ -2,4 +2,4 @@
 #### Tecnologias usadas
 * HTML
 * CSS
-* Javascript 😻<3
+* Javascript
